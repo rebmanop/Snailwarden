@@ -5,4 +5,4 @@
  1) Download or clone this repository.
  2) Extract to some location.
  3) Pip all dependencies.
- 4) Run main.py
+ 4) Run snailwarden.py
